@@ -11,7 +11,7 @@
     build: 2,
     sizeMB: 71,
     file: "downloads/HeartPath-1.0.0.apk",
-    sha256: "dc981ba411aec17b591d5fe8ef76ad26f35983414e6883172c3cd6bba88d8463",
+    sha256: "9716abe6b2fb226436abed464a4bfc5d2ab3c61a3cbf6ba21cf627cf199480b6",
     email: "heartrehab.chathurthasen@gmail.com"
   };
 
